@@ -1,0 +1,1496 @@
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Vertex info
+-----------
+0(21) : error C1008: undefined variable "position"
+(0) : error C2003: incompatable options for link
+
+Linking program
+
+Vertex info
+-----------
+0(21) : error C1008: undefined variable "position"
+(0) : error C2003: incompatable options for link
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+0(10) : error C1008: undefined variable "inColor"
+
+Linking program
+
+Fragment info
+-------------
+0(10) : error C1008: undefined variable "inColor"
+(0) : error C2003: incompatable options for link
+
+0(10) : error C1008: undefined variable "inColor"
+
+Linking program
+
+Fragment info
+-------------
+0(10) : error C1008: undefined variable "inColor"
+(0) : error C2003: incompatable options for link
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
+Linking program
+
