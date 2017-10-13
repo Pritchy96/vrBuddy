@@ -76,7 +76,7 @@ public:
 
 	bool SetupTexturemaps();
 
-	float defaultCameraY = 20;
+	float defaultCameraY = 0;
 
 	/*vector <float> vertdataarray = {
 		1.0f,-1.0f, 1.0f,
@@ -106,7 +106,7 @@ public:
 		float height = abs(tr.z - bl.z) * 10;
 
 		AddTerrain();
-		MoveScenePos(*new Vector3(0, defaultCameraY, 0));
+		SetScenePos(*new Vector3(0, -defaultCameraY, 0));
 
 		m_uiVertcount = vertdataarray.size() / 3;
 
@@ -883,6 +883,8 @@ bool CMainApplication::HandleInput()
 
 			if (state.ulButtonTouched & vr::ButtonMaskFromId(vr::k_EButton_SteamVR_Touchpad)) {
 				//temp.k_EButton_SteamVR_Touchpad = true;
+				SetScenePos(*new Vector3(0, -defaultCameraY, 0));
+
 			}
 		}
 	}
