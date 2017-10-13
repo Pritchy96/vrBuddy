@@ -76,6 +76,8 @@ public:
 
 	bool SetupTexturemaps();
 
+	float defaultCameraY = 0;
+
 	/*vector <float> vertdataarray = {
 		1.0f,-1.0f, 1.0f,
 		-1.0f,-1.0f,-1.0f,
@@ -104,7 +106,7 @@ public:
 		float height = abs(tr.z - bl.z) * 10;
 
 		AddTerrain();
-		TeleportPlaySpace(*new Vector3(0, 10, 0));
+		SetScenePos(*new Vector3(0, -defaultCameraY, 0));
 
 		m_uiVertcount = vertdataarray.size() / 3;
 
@@ -122,13 +124,11 @@ public:
 		//Tells GL that the GL_ARRAY_BUFFER is the size of the vector * the size of a float, and "gives it the address of the first value"
 		glBufferData(GL_ARRAY_BUFFER, sizeof(float) * colordataarray.size(), colordataarray.data(), GL_STATIC_DRAW);
 
-
 		//vertex attribute object (VAO) remembers all of the vertex buffers (VBO's) 
 		// that you want to use, and the memory layout of each one. 
 		glGenVertexArrays(1, &m_unSceneVAO);
 		//"bind it, to bring it in to focus in the state machine."
 		glBindVertexArray(m_unSceneVAO);
-
 
 		//Enable the first attribute, 0, Position.
 		glEnableVertexAttribArray(0);
@@ -145,7 +145,6 @@ public:
 		//Defining layout of our first VBO within the VAO: ""1" means define the layout for attribute number 1. 
 		//"3" means that the variables are vec3 made from every 3 floats (GL_FLOAT) in the buffer."
 		glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 0, 0);
-
 
 		//Unbind VAO and disable VBO. Is this necessary?
 		//glBindVertexArray(0);
@@ -187,7 +186,7 @@ public:
 		}
 	}
 
-	void AddQuad(Vector3 p1, Vector3 p2, Vector3 p3, Vector3 p4) {
+	void AddQuad(Vector3 p1, Vector3 p2, Vector3 p3, Vector3 p4) {		
 		vertdataarray.push_back(p1.x);
 		vertdataarray.push_back(p1.y);
 		vertdataarray.push_back(p1.z);
@@ -257,9 +256,20 @@ public:
 
 	}
 
-	void TeleportPlaySpace(Vector3 teleportPosition) {
-		//TelePos is minus because we are moving the world, not the camera. So we have to invert it.
-		SceneModelMatrix = SceneModelMatrix.translate(-teleportPosition) * GetCurrentViewProjectionMatrix(vr::Eye_Left);
+	void ResetPlaySpace() {
+		SceneModelMatrix[12] = 0;
+		SceneModelMatrix[13] = defaultCameraY;
+		SceneModelMatrix[14] = 0;
+	}
+
+	void MoveScenePos(Vector3 delta) {
+		SceneModelMatrix.translate(delta);
+	}
+
+	void SetScenePos(Vector3 position) {
+		SceneModelMatrix[12] = position.x;
+		SceneModelMatrix[13] = position.y;
+		SceneModelMatrix[14] = position.z;
 	}
 
 	void DrawControllers();
@@ -359,7 +369,7 @@ private: // OpenGL bookkeeping
 	GLuint m_unRenderModelProgramID;
 
 	GLint m_nSceneViewMatrix;
-	GLint m_nSceneModelMatrix;
+	GLint m_nSceneModelMatrix; 
 
 	Matrix4 SceneModelMatrix;	//The actual Matrix
 
@@ -852,12 +862,15 @@ bool CMainApplication::HandleInput()
 					const Matrix4 &controllerMatrix = m_rmat4DevicePose[unDevice];
 					Vector4 controllerDir = controllerMatrix * Vector4(0, 0, 1, 0);
 					Vector4 controllerCenter = controllerMatrix * Vector4(0, 0, 0, 1);
+					Vector4 HMDCenter = m_mat4HMDPose * Vector4(0, 0, 0, 1);
 
-					float teleX = controllerCenter.x - ((controllerCenter.y / controllerDir.y)*controllerDir.x);
-					float teleZ = controllerCenter.z - ((controllerCenter.y / controllerDir.y)*controllerDir.z);
-
-					Vector3 teleLocation = *new Vector3(teleX, 0, teleZ);
-					TeleportPlaySpace(teleLocation);
+					//This is in playspace relative coordinates, not scene!
+					//Where Y = 0:
+					float xIntercept = controllerCenter.x - ((controllerCenter.y / controllerDir.y)*controllerDir.x);
+					float zIntercept = controllerCenter.z - ((controllerCenter.y / controllerDir.y)*controllerDir.z);
+					
+					Vector3 teleLocation = *new Vector3(-(HMDCenter.x - xIntercept), 0, -(HMDCenter.z - zIntercept));
+					MoveScenePos(teleLocation);
 					
 					temp = true;
 				}
@@ -870,6 +883,8 @@ bool CMainApplication::HandleInput()
 
 			if (state.ulButtonTouched & vr::ButtonMaskFromId(vr::k_EButton_SteamVR_Touchpad)) {
 				//temp.k_EButton_SteamVR_Touchpad = true;
+				SetScenePos(*new Vector3(0, -defaultCameraY, 0));
+
 			}
 		}
 	}
